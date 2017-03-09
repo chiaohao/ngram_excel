@@ -4,9 +4,9 @@
 Read a column of excel workbook and return a sheet with n-grams and counts
 
 ## Install
-``` pip install xlrd ```
-``` pip install xlwt ```
-``` git clone https://github.com/chiaohao/ngram_excel.git ```
+``` pip install xlrd ```  
+``` pip install xlwt ```  
+``` git clone https://github.com/chiaohao/ngram_excel.git ```  
 ``` cd ngram_excel ```
 
 ## Usage
