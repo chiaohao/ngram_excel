@@ -2,10 +2,10 @@
 Read a column of excel workbook and return a sheet with n-grams and counts
 
 # Install
-> pip install xlrd
-> pip install xlwt
-> git clone https://github.com/chiaohao/ngram_excel.git
-> cd ngram_excel
+``` pip install xlrd
+``` pip install xlwt
+``` git clone https://github.com/chiaohao/ngram_excel.git
+``` cd ngram_excel
 
 #Usage
 ``` python ngram_excel.py in_workbook content_column out_workbook longest_gram_num min_freqency
